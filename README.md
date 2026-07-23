@@ -9,7 +9,6 @@ Two deliverables for the assessment: a manual/exploratory test plan (Task 1) and
 | `reset_password_test_plan_US123456.md` | 1 | Full test plan for the "Reset Password" feature (US #123456) |
 | `normalize_code.py` | 2 | `normalize_code` implementation |
 | `test_normalize_code.py` | 2 | pytest unit test suite (31 tests) |
-| `normalize_code_solution.md` | 2 | Same code + notes on assumptions, in a single readable doc |
 
 ## Task 1 — Reset Password Test Plan
 
