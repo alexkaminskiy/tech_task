@@ -20,7 +20,6 @@ docs/`reset_password_test_plan_US123456.md` covers the feature end to end, group
 4. UI / UX Testing
 5. Compatibility Testing
 6. Monkey / Exploratory Testing
-7. Non-Functional Testing (load, delivery reliability)
 
 ## Task 2 — `normalize_code`
 
